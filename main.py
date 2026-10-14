@@ -1,6 +1,7 @@
 import time
 run = True
 
+print("öndring")
 
 wizard_name = "Rayan"
 
